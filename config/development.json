@@ -1,0 +1,7 @@
+{
+	"es":{
+		"host":"http://188.166.187.85:2000/",
+		"serverPort":"8000",
+		"index":"flexott_logdata-ip1"
+	}
+}
